@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi,
+
+I am learning Python, and one day hope to analyze data with it. 
